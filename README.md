@@ -1,5 +1,5 @@
 
-<h1> 📌 Testimonials freeCodeCamp</h1> 
+<h1> 📌 Testimonials</h1> 
 
 <p>This is an application developed with React that represents a clone of the freeCodeCamp Student Testimonials section.</p>
 
